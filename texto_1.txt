@@ -1,2 +1,2 @@
-Este es el
-texto definitivo de la rama main”.
+“Este archivo ahora contiene los
+aportes de main y también de la primera_rama”.
